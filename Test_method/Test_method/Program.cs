@@ -47,7 +47,6 @@
         }
     }
 
-    // Provides a rough calculation of gradient g(x).
     public static double[] GradG(double[] x, double h)
     {
         int n = x.Length;
@@ -62,7 +61,6 @@
         return z;
     }
 
-    // Method to provide function g(x).
     public static double g(double[] x)
     {
         return x[0] + x[1] - x[2] * 2 - x[3] * 0.1 + x[4] - x[5] - x[6] * 5 + x[7] + x[8] - 3 - x[9] / 1.5 + x[10] + x[11] - x[12];
@@ -73,8 +71,8 @@
         double tolerance = 100000;
         double alpha = 0.1;
         double[] x = new double[13];
-        x[0] = 0.1; //Initial guesses
-        x[1] = -1;  //of location of minimums
+        x[0] = 0.1; 
+        x[1] = -1;  
         steepestDescent(x, alpha, tolerance);
         Console.WriteLine("The minimum is at x[0] = " + x[0] + ", x[1] = " + x[1]);
         Console.ReadLine();

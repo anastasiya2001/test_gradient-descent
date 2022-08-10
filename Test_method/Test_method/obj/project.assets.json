@@ -133,11 +133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Logstream\\Test_method\\Test_method\\Test_method.csproj",
+      "projectUniqueName": "C:\\GIT\\test_gradient-descent\\Test_method\\Test_method\\Test_method.csproj",
       "projectName": "Test_method",
-      "projectPath": "D:\\Logstream\\Test_method\\Test_method\\Test_method.csproj",
+      "projectPath": "C:\\GIT\\test_gradient-descent\\Test_method\\Test_method\\Test_method.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Logstream\\Test_method\\Test_method\\obj\\",
+      "outputPath": "C:\\GIT\\test_gradient-descent\\Test_method\\Test_method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
