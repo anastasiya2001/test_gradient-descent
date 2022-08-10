@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3o8xkFTXR+EzG/HOE2TQ8aSQWeL6a0B9bW+J+vDx6i2Mhsy564wzrChpLaDNt03RnwTZbSGA8hZNk7xOjhB1GA==",
+  "success": true,
+  "projectFilePath": "D:\\Logstream\\Test_method\\Steepest_descent\\Steepest_descent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

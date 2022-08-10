@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxD7np9ioVkxolfCIW7Uh44//79WXNke9NUuKQnpVfW78LZsz7xgv2Rt+w6dDfbfe74+C0LeTmMpVLr1I5ZDOg==",
+  "success": true,
+  "projectFilePath": "D:\\Logstream\\Test_method\\Test_method\\Test_method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
